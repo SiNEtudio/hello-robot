@@ -1,6 +1,6 @@
-***Settings***
-Library SeleniumLibrary
+*** Settings ***
+Library    SeleniumLibrary
 
-**Test Cases***
+*** Test Cases ***
 เปิด google.co.th ด้วย Chrome
-    Open Browser http://www.google.co.th chrome
+    Open Browser    http://www.google.co.th    chrome
